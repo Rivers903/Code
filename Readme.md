@@ -13,3 +13,7 @@ A starter program for writing Javascript games.
 '''
 
 2. The script will detect when the left or right arrow keys are pressed and will move the ball elemnt accordingly.
+
+# JavaScript All-in-One for Dummies
+
+I'm learning, React, Vue, Svelte, and Node from JavaScript All-in-One For DUmmies by Chris Minnick
